@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2dddd278-16d5-4bd6-93b2-8299384d27df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rails-ecom-theme.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/banner-1-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/banner-2-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/banner/banner-1-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/banner/banner-2-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/credit-cards-footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/footer/credit-cards-footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/header/cart-items/item1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/header/cart-items/item2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/hero/slider-bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/hero/slider-bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/hero/slider-bnr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/hero/small-banner-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/item1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/item2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/logo/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/logo/white-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/product-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/product-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/product-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/product-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/product-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/product-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/product-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/product-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/product-details/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/product-details/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/product-details/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/product-details/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/product-details/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/products/product-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/products/product-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/products/product-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/products/product-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/products/product-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/products/product-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/products/product-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/products/product-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/slider-bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/slider-bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/slider-bnr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/small-banner-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/images/white-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/lineicons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/tiny-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/hello_typescript.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/cjs/enums.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/cjs/enums.js.flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/cjs/enums.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/cjs/popper-base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/cjs/popper-base.js.flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/cjs/popper-base.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/cjs/popper-lite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/cjs/popper-lite.js.flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/cjs/popper-lite.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/cjs/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/cjs/popper.js.flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/cjs/popper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/createPopper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/contains.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getBoundingClientRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getClippingRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getCompositeRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getComputedStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getDocumentElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getDocumentRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getHTMLElementScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getLayoutRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getNodeName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getNodeScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getOffsetParent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getParentNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getScrollParent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getViewportRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getWindow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getWindowScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/getWindowScrollBarX.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/instanceOf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/isScrollParent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/isTableElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/dom-utils/listScrollParents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/enums.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/modifiers/applyStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/modifiers/arrow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/modifiers/computeStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/modifiers/eventListeners.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/modifiers/flip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/modifiers/hide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/modifiers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/modifiers/offset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/modifiers/popperOffsets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/modifiers/preventOverflow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/popper-base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/popper-lite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/computeAutoPlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/computeOffsets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/debounce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/detectOverflow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/expandToHashMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/format.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/getAltAxis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/getAltLen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/getBasePlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/getFreshSideObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/getMainAxisFromPlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/getOppositePlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/getOppositeVariationPlacement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/getVariation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/math.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/mergeByName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/mergePaddingObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/orderModifiers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/rectToClientRect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/uniqueBy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/validateModifiers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/esm/utils/within.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/enums.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/enums.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/enums.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/enums.min.js.flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/enums.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/popper-base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/popper-base.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/popper-base.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/popper-base.min.js.flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/popper-base.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/popper-lite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/popper-lite.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/popper-lite.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/popper-lite.min.js.flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/popper-lite.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/popper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/popper.min.js.flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/popper/umd/popper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/home/_hero.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/home/_trending.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/shared/_footer.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/shared/_header.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/shared/_preload.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/initializers/assets.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/application_system_test_case.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/channels/application_cable/connection_test.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/controllers/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/helpers/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/integration/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/mailers/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/models/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/system/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1z277dyNnkIhpwIv2uJ19t6gMkm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager" selected="Rails.Development: rails-ecom-theme">
+    <configuration name="Development: rails-ecom-theme" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="rails-ecom-theme" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Production: rails-ecom-theme" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="rails-ecom-theme" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spec: rails-ecom-theme" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="rails-ecom-theme" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test: rails-ecom-theme" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="rails-ecom-theme" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dddd278-16d5-4bd6-93b2-8299384d27df" name="Changes" comment="" />
+      <created>1633334165631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633334165631</updated>
+      <workItem from="1633334170093" duration="1251000" />
+      <workItem from="1633336914804" duration="3503000" />
+      <workItem from="1633344697504" duration="1123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

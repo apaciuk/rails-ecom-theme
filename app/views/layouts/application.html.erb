@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>RailsEcomTheme</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_pack_tag 'popper', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_pack_tag 'bootstrap', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_pack_tag 'lightbox', 'data-turbolinks-track': 'reload', defer: true %>
+    <%= javascript_pack_tag 'tiny-slider', 'data-turbolinks-track': 'reload', defer: true %>
+    <%= javascript_pack_tag 'main', 'data-turbolinks-track': 'reload', defer: true %>
+    <%= javascript_pack_tag 'custom', 'data-turbolinks-track': 'reload', defer: true %>
+  </head>
+
+  <body>
+  <%= render 'shared/preload' %>
+  <%= render 'shared/header' %>
+    <%= yield %>
+  <%= render 'shared/footer' %>
+  </body>
+</html>
