@@ -1,7 +1,11 @@
 # README
+# rails-ecom-theme
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# todo
+
+1. Fix home slider
+2. Fix lineicons not resolve
+3. Fix home single route
 
 Things you may want to cover:
 
